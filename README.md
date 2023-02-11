@@ -1,3 +1,3 @@
-# Dynamic Progrgamming for Global Alignment
+# Dynamic Programming for Global Alignment
 
-![image](https://user-images.githubusercontent.com/58489169/166341778-f7503f3b-bafc-43cb-b99d-edad938698f1.png)
+<img width="1302" alt="image" src="https://user-images.githubusercontent.com/58489169/218239856-5aaa48ee-17fd-47d0-9c92-68ef926deac9.png">
